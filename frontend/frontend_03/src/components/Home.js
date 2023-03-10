@@ -13,7 +13,7 @@ const Home = (props) => {
                 <h2>Help others in need. Life is about you being there for people</h2>
                 {/* <p>Our full stack curriculum is supported by a passionate open source community.</p>
                 <p>Remove your fresher's tag, join Industrial Training program now.</p> */}
-                <Link to="/products" class="button">Let's Get Started</Link>
+                <Link to="/customerlogin" class="button">Let's Get Started</Link>
             </header>
 
             
